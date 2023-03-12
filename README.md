@@ -1,4 +1,4 @@
-# decision-tree-and-random-forest-fundamentals
+# Decision Tree and-Random-Forest fundamentals
 Decision Trees and Random Forests are powerful machine learning techniques that are widely used in a variety of fields, including finance, healthcare, marketing, and more. In this text, we will explore the basics of decision trees and random forests, how they work, and their applications in machine learning.
 
 Decision Trees are a type of machine learning algorithm that models decisions and their possible consequences as a tree-like structure. Each node in the tree represents a decision, and each branch represents a possible outcome of that decision. Decision Trees are easy to understand and interpret, making them a popular choice for data scientists and analysts.
